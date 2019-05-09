@@ -28,6 +28,8 @@ public class QueueExample {
 
         System.out.println("PriorityQueue " + brands);
 
+        brands.forEach(brand -> {System.out.println(brand);});
+
 
 
 
